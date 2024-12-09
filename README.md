@@ -55,20 +55,20 @@ VocalAssistant/
 ```bash
 git clone https://github.com/yourusername/VocalAssistant.git
 cd VocalAssistant
+
 2. Set Up a Virtual Environment
-bash
-Copier le code
 python -m venv env
 source env/bin/activate    # On Windows: env\Scripts\activate
+
 3. Install Dependencies
 bash
 Copier le code
 pip install -r requirements.txt
+
 4. Configure settings.json
 Update the configs/settings.json file with your desired language, API keys, and other settings. Example:
 
-json
-Copier le code
+
 {
     "language": "en-US",
     "voice_settings": {
