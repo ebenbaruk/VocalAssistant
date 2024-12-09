@@ -1,0 +1,21 @@
+{
+    "language": "fr-FR",
+    "voice_settings": {
+        "rate": 150,
+        "volume": 1.0,
+        "preferred_voice": "female"
+    },
+    "commands": {
+        "time_keywords": ["heure", "temps"],
+        "search_keywords": ["recherche", "trouve"],
+        "launch_keywords": ["lance", "ouvre"],
+        "stop_keywords": ["arrête", "stop", "quitte"]
+    },
+    "api_keys": {
+        "google": "YOUR_GOOGLE_API_KEY"
+    },
+    "general_settings": {
+        "recognition_timeout": 5,
+        "ambient_noise_adjustment": true
+    }
+}
