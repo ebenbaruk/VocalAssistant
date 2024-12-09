@@ -83,24 +83,24 @@ Copier le code
 🖥️ Usage
 Run the assistant with:
 
-bash
-Copier le code
 python main.py
+
 Example Commands:
 "What time is it?": Responds with the current time.
 "Search Python programming": Opens Google search for "Python programming".
 "Launch calculator": Opens the calculator application.
 "Stop": Exits the assistant.
+
 🧪 Testing
 Run unit tests for the modules:
 
-bash
-Copier le code
 python -m unittest discover tests
+
 🌟 Features to Add
 Integration with smart home devices.
 Support for more natural language processing (NLP).
 Additional commands like setting reminders or sending emails.
+
 🤝 Contribution
 Contributions are welcome! Please follow these steps:
 
@@ -109,6 +109,7 @@ Create a feature branch (git checkout -b feature-name).
 Commit your changes (git commit -m "Add feature").
 Push to your branch (git push origin feature-name).
 Open a pull request.
+
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -119,15 +120,9 @@ This project demonstrates the power of Python for creating voice-controlled appl
 For any inquiries or feedback, please contact:
 
 Name: Eli
-Email: your.email@example.com
-GitHub: yourusername
+GitHub: ebenbaruk
 
 ---
 
-### **How to Use It**
-1. Replace `yourusername` and `your.email@example.com` with your actual GitHub username and email.
-2. Save this file as `README.md` in the root directory of your project.
-
-This README provides a professional and detailed overview of your project, making it easy for others to understand and contribute. 😊
 
 
